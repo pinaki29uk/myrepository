@@ -6,7 +6,7 @@ public class MyClass {
 		// TODO Auto-generated method stub
 
 		System.out.println("my test GIT project");
-		System.out.println("modified code cycle 9 16/10/2017 testing >> ");
+		System.out.println("modified code cycle 10 17/10/2017 testing >> ");
 	}
 
 }
